@@ -27,9 +27,11 @@ coverage
 build/Release
 
 # Dependency directories
-node_modules
+node_modules/
+bower_components/
 jspm_packages
 
+npm-debug.logs
 # Optional npm cache directory
 .npm
 
